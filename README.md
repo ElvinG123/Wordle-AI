@@ -23,9 +23,8 @@ Welcome to Wordle AI! This C program presents a unique twist on the popular word
 3. **Iteration & Refinement**: The AI continuously refines its guesses based on the accumulated scores, discarding less likely words and favoring those with higher scores.
 
 ## Example Execution
-<img width="1440" alt="Screen Shot 2023-12-26 at 5 53 01 PM" src="https://github.com/uic-maratos/homework-0-igarcia11235/assets/118215639/9656b5ca-c3aa-482b-a745-ce7db3ac4c3e">
-<img width="1440" alt="Screen Shot 2023-12-26 at 6 01 45 PM" src="https://github.com/uic-maratos/homework-0-igarcia11235/assets/118215639/d3ba88a3-09f1-4c33-8f8c-70646b245018">
-
+![7802F974-8895-4EBE-ABC7-2D5C223DE4A6](https://github.com/user-attachments/assets/7eca74fa-87c1-46ee-b77b-3f573acf8598)
+![A8280844-7563-4288-8B88-F381C012FD45](https://github.com/user-attachments/assets/fc56b19e-8c31-4754-a6bf-5cccd2c202b3)
 
 
 ## Files Included
